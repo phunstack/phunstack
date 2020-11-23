@@ -1,4 +1,4 @@
-###  Welcome to my `stack of fun`
+###  Welcome to my `stack of fun` 👋
 
 Where I work on all related projects including software development and system engineering.
 
