@@ -1,4 +1,7 @@
-### Hi there 👋
+###  Welcome to my `stack of fun`
+
+Where I work on all related projects including software development and system engineering.
+
 
 <!--
 **phunstack/phunstack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
