@@ -1,6 +1,6 @@
 ###  Welcome to my `stack of fun` 👋
 
-Where I work on all code driven projects including software development and system engineering work.
+Where I work on all code driven projects including system engineering work and software development .
 
 
 <!--
